@@ -1,0 +1,1 @@
+Second feature to add is integrate google chat from maps to every page 
