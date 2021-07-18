@@ -1,0 +1,4 @@
+The file is added to the HTMLWebsite after clonning from git hub from ubuntu. let me check. This file has no importance. YOu can delete it any time.
+These lines are added using VIM commands.
+These line is also added using VIM command.
+This line is appended using cat >> command.
