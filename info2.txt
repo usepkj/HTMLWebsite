@@ -1,0 +1,2 @@
+This is 2nd file in centos machine using vim editor.
+It is good that getting basic hands using docker.
