@@ -1,0 +1,1 @@
+This is 3rd text file from centos machine HTMLWebsite using vim editor.
