@@ -1,0 +1,1 @@
+this is 9 th file and to be added to developer branch. Feature2 file also created in features branch. Want to push to central repo at the same time using add and push statements individually in each branch.
